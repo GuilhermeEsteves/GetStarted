@@ -1,12 +1,12 @@
 # Get Started with ASP.NET Core
 
-Below you will find the steps to build your first ASP.NET Core app. See [Get Started with ASP.NET](http://www.aspqa.net/get-started/framework) if you are looking to get started with ASP.NET and the .NET Framework on Windows. [Learn more](http://www.aspqa.net/learn) about the difference between ASP.NET and ASP.NET Core.
+Below you will find the steps to build your first ASP.NET Core app. See [Get Started with ASP.NET](http://www.asp.net/get-started/framework) if you are looking to get started with ASP.NET and the .NET Framework on Windows. [Learn more](http://www.asp.net/learn) about the difference between ASP.NET and ASP.NET Core.
 
 Let's start by building a simple "Hello, world!" app.
 
 1. Install .NET Core. See installation steps for Windows, macOS and Linux [here](https://dot.net/core).
 
-2. Download the [sample](https://github.com/danroth27/GetStarted/archive/master.zip) and unzip it.
+2. Download the [sample](https://github.com/aspnet/GetStarted/archive/master.zip) and unzip it.
 
 3. Restore the packages
 
