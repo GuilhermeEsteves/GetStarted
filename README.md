@@ -33,7 +33,7 @@ Let's start by building a simple "Hello, world!" app.
   
 6. Browse to http://localhost:5000
 
-  ![Hello world output](http://www-aspqa.azureedge.net/v-2016-07-21-003/images/ui/get-started-1.png)
+  ![Hello world output](https://www-asp.azureedge.net/v-2016-07-25-003/images/ui/get-started-1.png)
 
 7. Press Ctrl+C to stop the app
 
@@ -73,7 +73,7 @@ Now let's enable support for static files.
 
 4. Browse to http://localhost:5000/index.html
 
-  ![Static file output](http://www-aspqa.azureedge.net/v-2016-07-21-003/images/ui/get-started-2.png)
+  ![Static file output](https://www-asp.azureedge.net/v-2016-07-25-003/images/ui/get-started-2.png)
   
 That's it! 
 
